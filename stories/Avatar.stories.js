@@ -20,142 +20,180 @@ export const avatarLibrary = () => (
     <div>
       <Box>
         <Avatar
+            display={"inline-block"}
             initials={"A"}
             width={100}
         />
 
         <Avatar
+            display={"inline-block"}
             initials={"B"}
             width={100}
         />
 
         <Avatar
+            display={"inline-block"}
             initials={"C"}
             width={100}
         />
 
         <Avatar
+            display={"inline-block"}
             initials={"D"}
             width={100}
         />
 
         <Avatar
+            display={"inline-block"}
             initials={"E"}
             width={100}
         />
 
         <Avatar
+            display={"inline-block"}
             initials={"F"}
             width={100}
         />
+      </Box>
 
+      <Box>
         <Avatar
+            display={"inline-block"}
             initials={"G"}
             width={100}
         />
 
         <Avatar
+            display={"inline-block"}
             initials={"H"}
             width={100}
         />
 
         <Avatar
+            display={"inline-block"}
             initials={"I"}
             width={100}
         />
 
-      </Box>
-      <br/>
-
-      <Box>
         <Avatar
+            display={"inline-block"}
             initials={"J"}
             width={100}
         />
 
         <Avatar
+            display={"inline-block"}
             initials={"K"}
             width={100}
         />
 
         <Avatar
+            display={"inline-block"}
             initials={"L"}
             width={100}
         />
+      </Box>
 
+      <Box>
         <Avatar
+            display={"inline-block"}
             initials={"M"}
             width={100}
         />
 
         <Avatar
+            display={"inline-block"}
             initials={"N"}
             width={100}
         />
 
         <Avatar
+            display={"inline-block"}
             initials={"O"}
             width={100}
         />
 
         <Avatar
+            display={"inline-block"}
             initials={"P"}
             width={100}
         />
 
         <Avatar
+            display={"inline-block"}
             initials={"Q"}
             width={100}
         />
 
         <Avatar
+            display={"inline-block"}
             initials={"R"}
             width={100}
         />
       </Box>
-      <br/>
 
       <Box>
         <Avatar
+            display={"inline-block"}
             initials={"S"}
             width={100}
         />
 
         <Avatar
+            display={"inline-block"}
             initials={"T"}
             width={100}
         />
 
         <Avatar
+            display={"inline-block"}
             initials={"U"}
             width={100}
         />
 
         <Avatar
+            display={"inline-block"}
             initials={"V"}
             width={100}
         />
 
         <Avatar
+            display={"inline-block"}
             initials={"W"}
             width={100}
         />
 
         <Avatar
+            display={"inline-block"}
             initials={"X"}
             width={100}
         />
+      </Box>
 
+      <Box>
         <Avatar
+            display={"inline-block"}
             initials={"Y"}
             width={100}
         />
 
         <Avatar
+            display={"inline-block"}
             initials={"Z"}
             width={100}
         />
 
+        <Avatar
+            display={"inline-block"}
+            initials={"陈"}
+            width={100}
+        />
+
+        <Avatar
+            display={"inline-block"}
+            initials={"ザ"}
+            width={100}
+        />
       </Box>
     </div>
 );
@@ -163,141 +201,3 @@ export const avatarLibrary = () => (
 avatarLibrary.story = {
   name: "Avatar Library",
 };
-
-// <div>
-//   <Avatar
-//       initials={"AA"}
-//       width={100}
-//   />
-//
-//   <Avatar
-//       initials={"BB"}
-//       width={100}
-//   />
-//
-//   <Avatar
-//       initials={"CC"}
-//       width={100}
-//   />
-//
-//   <Avatar
-//       initials={"DD"}
-//       width={100}
-//   />
-//
-//   <Avatar
-//       initials={"EE"}
-//       width={100}
-//   />
-//
-//   <Avatar
-//       initials={"FF"}
-//       width={100}
-//   />
-//
-//   <Avatar
-//       initials={"GG"}
-//       width={100}
-//   />
-//
-//   <Avatar
-//       initials={"HH"}
-//       width={100}
-//   />
-//
-//   <Avatar
-//       initials={"II"}
-//       width={100}
-//   />
-// </div>
-// <br/>
-//
-// <Box>
-//   <Avatar
-//       initials={"JJ"}
-//       width={100}
-//   />
-//
-//   <Avatar
-//       initials={"KP"}
-//       width={100}
-//   />
-//
-//   <Avatar
-//       initials={"LO"}
-//       width={100}
-//   />
-//
-//   <Avatar
-//       initials={"MN"}
-//       width={100}
-//   />
-//
-//   <Avatar
-//       initials={"NM"}
-//       width={100}
-//   />
-//
-//   <Avatar
-//       initials={"OL"}
-//       width={100}
-//   />
-//
-//   <Avatar
-//       initials={"PK"}
-//       width={100}
-//   />
-//
-//   <Avatar
-//       initials={"QJ"}
-//       width={100}
-//   />
-//
-//   <Avatar
-//       initials={"RI"}
-//       width={100}
-//   />
-// </Box>
-// <br/>
-//
-// <Box>
-//   <Avatar
-//       initials={"SH"}
-//       width={100}
-//   />
-//
-//   <Avatar
-//       initials={"TG"}
-//       width={100}
-//   />
-//
-//   <Avatar
-//       initials={"UF"}
-//       width={100}
-//   />
-//
-//   <Avatar
-//       initials={"VE"}
-//       width={100}
-//   />
-//
-//   <Avatar
-//       initials={"WD"}
-//       width={100}
-//   />
-//
-//   <Avatar
-//       initials={"XC"}
-//       width={100}
-//   />
-//
-//   <Avatar
-//       initials={"YB"}
-//       width={100}
-//   />
-//
-//   <Avatar
-//       initials={"ZA"}
-//       width={100}
-//   />
-// </Box>
